@@ -1,4 +1,4 @@
-# flet-widgets
+# Flet Widgets
 
 **If you find these repo useful, you can support it for free by clicking ⭐ Star repo.**
 
