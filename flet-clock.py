@@ -1,6 +1,6 @@
 # Flet Clock Widget - Hololeo Labs
 import flet
-from flet import Page, Column, Row, Container, Text 
+from flet import Page, Text 
 from flet import threading
 import time
 
