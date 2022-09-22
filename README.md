@@ -1,6 +1,6 @@
 # Flet Widgets
 
-**If you find these repo useful, you can support it for free by clicking ⭐ Star repo.**
+**If you find this repo useful, you can support it for free by clicking ⭐ Star repo.**
 
 **flet-clock.py - Display server system clock time**
 
